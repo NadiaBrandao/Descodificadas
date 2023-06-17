@@ -1,0 +1,38 @@
+.imagem{
+    height: 400px;
+    width: 400px;
+
+    border-width: 20px;
+    border-style: solid;
+    border-color: purple;
+    border-radius: 1px;
+
+    background-image: url(imagem-flor.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-origin: border-box;
+    text-align: center;
+    box-shadow: inset 6px 6px 13px 3px red;
+
+    padding: 10px;
+
+    outline-width: 16px;
+    outline-style: double;
+    outline-color: rgb(187, 7, 82);
+
+
+    margin: auto;
+    margin-top: 100px;
+
+    
+
+}
+.imagem p{
+    padding-top: 100px;
+    font-variant: small-caps;
+    font-style: italic;
+    font-size: 50px;
+    color: yellow;
+    font-weight: bold;
+}
